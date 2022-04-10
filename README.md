@@ -1,1 +1,1 @@
-# evarugs
+# evarugs -learning proect
